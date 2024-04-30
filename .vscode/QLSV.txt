@@ -1,0 +1,12 @@
+STT: 1
+Ho va ten: Nam 
+MSV: 20226042
+Que quan:  huwng yej
+Diem trung binh:  12
+
+STT: 2
+Ho va ten: sdhk
+MSV: 341
+Que quan:  has
+Diem trung binh:  24
+
